@@ -1,0 +1,15 @@
+using System;
+
+namespace HelloWorld
+{
+class Program
+{
+static void Main()
+{
+//Coment
+Console.WriteLine("Hello World!");
+string input = Console.ReadLine();
+Console.WriteLine("Your line is {input})
+}
+}
+}
